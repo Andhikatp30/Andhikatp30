@@ -36,7 +36,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
   </a>
 </p>
 
@@ -61,12 +61,12 @@
   </a>
 </p>
 
-- Cloud Servers
+<!--- Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
-</p>
+</p>-->
 
 - Tools
 <p align="left">
