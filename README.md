@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andhika Trisna Putra</h1>
 <h3 align="center">A passionate Programmer from Jakarta Raya, Indonesia</h3>
-<!-- <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p> -->
+<p align="center">I am a dedicated and versatile web developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React, Laravel, Node.js, MySQL, and JavaScript. My journey in web development started with a deep curiosity in how things work, and has evolved into a career where I continually strive to learn and adapt to new challenges. I thrive in a collaborative environment and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open source projects.</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-<!--   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
@@ -15,7 +15,7 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> -->
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-<!--   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -43,7 +43,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,materialui" />
   </a>
 </p>
 
@@ -71,6 +71,6 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,xampp" />
   </a>
 </p>
