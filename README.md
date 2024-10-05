@@ -61,6 +61,13 @@
   </a>
 </p>
 
+- Deploy
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  </a>
+</p>
+
 <!--- Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
@@ -71,6 +78,6 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,xampp" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,discord" />
   </a>
 </p>
